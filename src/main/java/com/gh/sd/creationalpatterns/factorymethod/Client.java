@@ -8,6 +8,6 @@ public class Client {
 
     public static void printMessage(MessageCreator creator) {
         // Check the concrete Message class   
-        System.out.println(creator.getMessage());
+        System.out.println(creator.getMessage().getContent());
     }
 }
