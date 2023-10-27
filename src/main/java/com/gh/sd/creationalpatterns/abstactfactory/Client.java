@@ -1,6 +1,5 @@
 package com.gh.sd.creationalpatterns.abstactfactory;
 
-import com.gh.sd.creationalpatterns.ResourceFactory;
 import com.gh.sd.creationalpatterns.abstactfactory.aws.AwsResourceFactory;
 import com.gh.sd.creationalpatterns.abstactfactory.gcp.GoogleCloudResourceFactory;
 

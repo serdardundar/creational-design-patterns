@@ -1,4 +1,4 @@
-package com.gh.sd.creationalpatterns;
+package com.gh.sd.creationalpatterns.abstactfactory;
 
 import com.gh.sd.creationalpatterns.abstactfactory.Instance;
 import com.gh.sd.creationalpatterns.abstactfactory.Storage;
