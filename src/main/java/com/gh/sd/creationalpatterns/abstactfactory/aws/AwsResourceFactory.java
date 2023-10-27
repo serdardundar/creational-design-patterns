@@ -1,6 +1,6 @@
 package com.gh.sd.creationalpatterns.abstactfactory.aws;
 
-import com.gh.sd.creationalpatterns.ResourceFactory;
+import com.gh.sd.creationalpatterns.abstactfactory.ResourceFactory;
 import com.gh.sd.creationalpatterns.abstactfactory.Instance;
 import com.gh.sd.creationalpatterns.abstactfactory.Storage;
 
